@@ -1,25 +1,22 @@
 ﻿第二部分 IDE
-第6章 深入了解Xcode工程(Project)
-第7章 Nib管理
-第8章 文档
-第9章 一个工程的生命周期
+    第6章 深入了解Xcode工程(Project)
+    第7章 Nib管理
+    第8章 文档
+    第9章 一个工程的生命周期
 
+现在,你可能很希望马上就开始写一个程序.不过在写程序之前,你需要对相关开发工具
+有一个扎实的了解.这里的开发工具就是Xcode.在本书中的这一部分中,我将对Xcode进
+行介绍.Xcode是在开发iOS所使用的IED(integrated development environment)。
+Xcode是一个比较大的程序，用Xcode编写一个程序,涉及到很多内容.本部分内容将让
+你熟悉Xcode.在介绍Xcode时,我将通过动手教程创建一个简单的程序.
 
-By now, you’re doubtless anxious to jump in and start writing an app. To do that, you
-need a solid grounding in the tools you’ll be using. The heart and soul of those tools can
-be summed up in one word: Xcode. In this part of the book we explore Xcode, the IDE
-(integrated development environment) in which you’ll be programming iOS. Xcode is
-a big program, and writing an app involves coordinating a lot of pieces; this part of the
-book will help you become comfortable with Xcode. Along the way, we’ll generate a
-simple working app through some hands-on tutorials.
-• Chapter 6 tours Xcode and explains the architecture of the project, the collection
-of files from which an app is generated.
-• Chapter 7 is about nibs. A nib is a file containing a drawing of your interface. Understanding
-nibs — knowing how they work and how they relate to your code —
-is crucial to your use of Xcode and to proper development of just about any app.
-• Chapter 8 pauses to discuss the Xcode documentation and other sources of information
-on the API.
-• Chapter 9 explains editing your code, testing and debugging your code, and the
-various steps you’ll take on the way to submitting your app to the App Store. You’ll
-probably want to skim this chapter quickly at first, returning to it as a detailed
-reference later while developing and submitting an actual app.
+• 第6章预览了一下Xcode,并对工程的结构和程序中默认生成的文件做了介绍。
+
+• 第7章是关于nib的。nib文件包含了用户界面的绘制。理解nib（知道nib的工作原
+理，以及nib是如何与代码相关联的）对于使用Xcode和开发一个程序都非常重要。
+
+• 第8章将介绍Xcode文档，以及API中其它代码的信息。
+
+• 第9章介绍代码的编写，测试和调试，以及提交程序到App Store需要操作的许多步
+骤。刚开始的时候，本章内容你可以迅速的略读一下就可以，当你在开发和提交一个
+实际的程序时再回头来看看详细的参考内容即可。
